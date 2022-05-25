@@ -1,3 +1,6 @@
 body {
-  background: orange;
+  background: #f1e7e700;
+}
+.text-warning {
+  color: black !important;
 }
